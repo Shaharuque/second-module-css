@@ -1,0 +1,11 @@
+/*external CSS*/
+
+h1{
+    color: chocolate;
+}
+
+.robot {
+    display:inline;
+    color: blueviolet;
+    background-color: rgb(43, 37, 49);
+}
